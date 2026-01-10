@@ -1,4 +1,4 @@
-# gym revenue analysis
+# gym-profitability-and-utilization-analysis
 
 ## Цель проекта
 Проанализировать спортивный зал как подписочный бизнес, чтобы понять,
